@@ -1,0 +1,6 @@
+Git Merging Strategies::     	https://www.geeksforgeeks.org/merge-strategies-in-git/
+
+Trunk Based Development::	https://www.toptal.com/software/trunk-based-development-git-flow
+
+Git Flow::			https://nvie.com/img/git-model@2x.png
+

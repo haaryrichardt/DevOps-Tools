@@ -1,0 +1,31 @@
+* Source Code Management (What, Why, How)
+
+* SCM tools(tortise svn, mercural, git)
+
+* Git
+
+* Github, Gitlab, Bitbucket
+
+* Repositories(Public, Private)
+
+* Git commands(Focus on commits, push, pull, merge, branch, checkout, rollback)
+
+* Repositories(types)
+
+* Forking
+
+* Merge conflict
+
+* Merging strategies
+      * Fast Forward (git rebase)
+      * Recursive
+      * Ours
+      * Octopus
+      * Resolve
+      * Subtree
+
+* Gitflow
+
+
+***MISSED POINT***
+Trunk Based Development
