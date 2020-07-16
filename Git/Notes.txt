@@ -10,8 +10,6 @@
 
 * Git commands(Focus on commits, push, pull, merge, branch, checkout, rollback)
 
-* Repositories(types)
-
 * Forking
 
 * Merge conflict
